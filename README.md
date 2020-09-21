@@ -12,3 +12,7 @@ This is an addon that is being developed for World of Warcraft Classic. This add
 - Implement user commands
 - Implement a GUI
 - Implement a minimap button
+
+# How to install/use
+
+Currently everything is being developed and installation and use of this addon is not yet currently available. 
