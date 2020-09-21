@@ -4,7 +4,7 @@ This is an addon that is being developed for World of Warcraft Classic. This add
 
 # Current development
 
-- [] Layout features and timeline
+- [x] Layout features (Completed 21-Sept-2020)
 - [] Create the needed files
 - [] Implement auto start tracking
 - [] Implement auto switching of tracking
