@@ -20,3 +20,7 @@ Currently everything is being developed and installation and use of this addon i
 # How to use
 
 Currently everything is being developed and installation and use of this addon is not yet currently available. 
+
+# Recent updates
+
+21-Sept-2020 Created the layout/plan, repository, and readme files.
