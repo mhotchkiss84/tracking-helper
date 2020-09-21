@@ -5,7 +5,7 @@ This is an addon that is being developed for World of Warcraft Classic. This add
 # Current development
 
 - [x] Layout features (Completed 21-Sept-2020)
-- [] Create the needed files
+- [] Create the structure
 - [] Implement auto start tracking
 - [] Implement auto switching of tracking
 - [] Implement auto detection of professions
