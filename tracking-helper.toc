@@ -1,0 +1,9 @@
+## Interface: 11305
+## Title: Tracking Helper
+## Author: Mike Hotchkiss (Slipup Mankrik)
+## Version: 0.1
+## Notes: In development ultimate auto tracking addon 
+## eMail : michael.hotchkiss@protonmail.com
+## DefaultState: Enabled
+
+tracking-helper.lua
