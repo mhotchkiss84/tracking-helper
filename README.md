@@ -5,10 +5,10 @@ This is an addon that is being developed for World of Warcraft Classic. This add
 # Current development
 
 - [x] Layout features (Completed 21-Sept-2020)
-- Create the structure
+- [x] Create the structure
 - Implement auto start tracking
 - Implement auto switching of tracking
-- Implement auto detection of professions
+- [x] Implement auto detection of professions
 - Implement user commands
 - Implement a GUI
 - Implement a minimap button
@@ -23,4 +23,5 @@ Currently everything is being developed and installation and use of this addon i
 
 # Recent updates
 
-21-Sept-2020 Created the layout/plan, repository, and readme files.
+21-Sept-2020 Created the layout/plan, repository, files, structure, and readme files.
+22-Sept-2020 Added gather profession auto detected functionality
