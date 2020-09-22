@@ -4,14 +4,18 @@ This is an addon that is being developed for World of Warcraft Classic. This add
 
 # Current development
 
-- [x] Layout features (Completed 21-Sept-2020)
-- [x] Create the structure
-- Implement auto start tracking
 - Implement auto switching of tracking
-- [x] Implement auto detection of professions
+
+# Future Development
+- Implement auto start tracking
 - Implement user commands
 - Implement a GUI
 - Implement a minimap button
+
+# Completed Development
+- [x] Layout features (Completed 21-Sept-2020)
+- [x] Create the structure (Completed 21-Sept-2020)
+- [x] Implement auto detection of professions (Completed 21-Sept-2020)
 
 # How to install
 
