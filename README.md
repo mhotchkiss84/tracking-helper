@@ -2,7 +2,7 @@
 
 This is an addon that is being developed for World of Warcraft Classic. This addon will automatically start resouce tracking, restart upon death/resurrect, and automatically switch between tracking options (herbs/minerals). Later versions will support auto detection if possible of what professions you have. 
 
-# Current development
+# Current Development
 
 - Implement auto switching of tracking
 
